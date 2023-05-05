@@ -1,0 +1,2 @@
+Enter Octal Number = 58
+Decimal Number is = 48
